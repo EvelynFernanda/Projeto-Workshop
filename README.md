@@ -1,6 +1,5 @@
-# *Projeto Workshop*
-### Página para contato, utilizado:
-* HTML
-* CSS
+# Projeto página de contato
+### Realizado para praticar HTML e CSS.
 
-![alt text](https://github.com/EvelynFernanda/Projeto-Workshop/blob/main/images/projeto.png?raw=true)
+<img height="600" src="images/projeto.png">
+
